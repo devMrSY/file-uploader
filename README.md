@@ -9,9 +9,12 @@ nodejs should be installed in your system
 # server
 
 navigate to server folder
-run nmp i (it will run on port nuber 3001)
+run nmp i
+run node index.js (it will run on port nuber 3001)
 
 # client
 
 navigate to client folder
-run npm i (it will run on port number 3000)
+run npm i
+run npm start
+(it will run on port number 3000)
